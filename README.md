@@ -9,7 +9,7 @@ The routing protocol you will be implementing is a link state protocol that is l
 
 Network Topology
 ----------------
-![Network Topology](/blob/master/topology.png)
+![Network Topology](topology.png)
 
 The task is to implement PWOSPF within your existing router so that your router will be able to do the following:
 
