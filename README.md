@@ -5,11 +5,11 @@ This project involves building advanced functionality on top of the <a href="htt
 
 PWOSPF
 ------
-The routing protocol you will be implementing is a link state protocol that is loosely based on OSPFv2. You may find a full specification of PWOSPF <a href="" target="_new">here</a>. Note that while PWOSPF is based on OSPFv2 it is sufficiently different that referring to the OSPFv2 as a reference will not be of much help and contrarily may confuse or mislead you.
+The routing protocol you will be implementing is a link state protocol that is loosely based on OSPFv2. You may find a full specification of PWOSPF <a href="https://github.com/cesarghali/PWOSPF/blob/master/PWOSPF%20Specs.pdf" target="_new">here</a>. Note that while PWOSPF is based on OSPFv2 it is sufficiently different that referring to the OSPFv2 as a reference will not be of much help and contrarily may confuse or mislead you.
 
 Network Topology
 ----------------
-![Network Topology]()
+![Network Topology](/blob/master/topology.png)
 
 The task is to implement PWOSPF within your existing router so that your router will be able to do the following:
 
